@@ -3,6 +3,7 @@ const returnFirstTwoDrivers = (arr) => arr.slice(0, 2)
 
 const returnLastTwoDrivers = (arr) => arr.slice(arr.length-2)
 
+learn
 const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 
 let createFareMultiplier = (mult) => ((fare) => fare * mult)
